@@ -1,9 +1,9 @@
-### ABC Corporation-Dashboard
+### KPI Controller-Dashboard
 
 #### Dashboard Link - https://app.powerbi.com/groups/a9294dbd-b459-43e8-a631-377d54b61d73/reports/7438478f-caee-433d-a37c-c307bfa13c60?experience=power-bi
 
 #### 1. Introduction
-- *Background:* ABC Corporation wanted to improve their sales performance tracking.
+- *Background:* To improve the sales performance tracking.
 - *Objective:* To develop a comprehensive Power BI report to visualize sales data and identify trends.
 
 #### 2. Data Collection
