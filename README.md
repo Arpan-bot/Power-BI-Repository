@@ -1,7 +1,5 @@
 ### Performance Tracking 2024 -Dashboard
 
-#### Dashboard Link - https://app.powerbi.com/groups/a9294dbd-b459-43e8-a631-377d54b61d73/reports/f8846675-b304-4153-81ba-2cccbfec50e3/789ef895b707dc418f4d?experience=power-bi
-
 #### 1. Introduction
 - *Background:* To improve the sales performance tracking.
 - *Objective:* To develop a comprehensive Power BI report to visualize sales data and identify trends.
